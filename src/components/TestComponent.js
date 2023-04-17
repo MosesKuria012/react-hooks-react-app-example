@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 
 // no need to modify anything in here. The final test is looking for the returned JSX from this component
 function TestComponent() {
@@ -14,7 +14,7 @@ function TestComponent() {
         allowFullScreen
       ></iframe>
     </div>
-  );
+  )
 }
 
-export default TestComponent;
+export default TestComponent
